@@ -1,0 +1,5 @@
+git init
+git remote add origin remote_path
+git add . // git add 'file_name'
+git commit -m 'file to be send'
+git push origin master
